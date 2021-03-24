@@ -1,0 +1,153 @@
+@media only screen and (max-width: 1000px){
+
+    .nav-bar ul {
+        margin: auto auto;
+        padding: auto auto;
+        text-align: center;
+        
+      }
+
+
+    .nav-bar li{
+      margin: auto auto;
+    }
+
+    .search{
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .flat{
+      width: 50%;
+      height: 50%;
+      margin-top: auto;
+      margin-bottom: -16%;
+    }
+    .head{
+      font-size: 25%;
+      margin-bottom: 0;
+    }
+    .foot{
+      font-size: 3px;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+    .checkout{
+      width: 30%;
+      height: 100%;
+      padding: 2%;
+      right: 0;
+      margin-left: auto;
+      margin-top: auto;
+      margin-bottom: -10%;
+    }
+    .checkout p{
+      font-size: 5px;
+    }
+    .checkout img{
+      width: 10px;
+      height: 10px;     
+    }
+
+    .carousel-control-prev span img{
+      width: 8px;
+    }
+
+    .carousel-control-next span img{
+      width: 8px;
+    }
+    
+    .product-card{
+      margin-bottom: 10%;
+    }
+
+    .flat-2{
+      font-size: smaller;
+    }
+    .flat-2 .percent{
+      font-size: 1rem;
+    }    
+
+    .name{
+      width: 81%;
+      right: 0;
+      left: 0;
+      bottom: -5%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .name-head p{
+      font-size: smaller;
+    }
+    .name-mid{
+      font-size: 5px;
+    }
+    .name-end{
+      font-size: 0.6rem;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .category-card{
+      margin-bottom: 20%;
+    }
+    .category-name{
+      width: 60%;
+      right: 0;
+      left: 0;
+      bottom: -10%;
+    }
+    .category-name h6{
+      font-size: smaller;
+      margin-bottom: 3%;
+    }
+    .category-name p{
+      font-size: 50%;
+      margin-top: 0;
+      padding-top: 0;
+    }
+
+    .explore-all{
+      width: 50%;
+      margin-top: 0;
+    }
+
+    .shoe-bottom{
+      left: 0;
+      padding-bottom: 0;
+    }
+    .shoe-bottom h4{
+      font-size: small;
+    }
+    .explore-1{
+     margin-top: 10%;
+     width: 40%;
+     height: 10%;
+     padding: 1% 0;
+     margin-left: auto;
+     margin-right: auto; 
+    }
+    .explore-1 p{
+      margin-top: 0;
+      font-size: smaller;
+    }
+    .explore-1 img{
+      width: 15px;
+      height: 15px;
+      margin-top: 3%;
+    }
+    .camera-bottom{
+      left: 0;
+      padding-bottom: 0;
+      width: 50%;
+    }
+    .camera-bottom h4{
+      font-size: small;
+    }
+    .margin{
+      margin-top: 15%;
+    }
+
+
+
+}
